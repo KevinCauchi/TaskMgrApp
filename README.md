@@ -1,0 +1,1 @@
+Users can set deadlines, receive reminders, and view all their tasks in an intuitive dashboard. The application also features secure user registration and login, ensuring that each user's data is protected.
